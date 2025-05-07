@@ -961,7 +961,7 @@ pre .javascript .function {
   padding: 0 10px;
 }
 .headband {
-  background: #87daff;
+  background: #49b1f5;
   height: 3px;
 }
 .site-meta {
@@ -1169,7 +1169,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #3bf2db;
+  background: #ff5558;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2230,7 +2230,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 .site-brand-container {
-  background: #87daff;
+  background: #49b1f5;
 }
 @media (max-width: 991px) {
   .site-brand-container {
