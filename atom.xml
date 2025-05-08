@@ -6,7 +6,7 @@
   <link href="https://utovia2237.github.io/atom.xml" rel="self"/>
   
   <link href="https://utovia2237.github.io/"/>
-  <updated>2025-05-07T02:12:11.348Z</updated>
+  <updated>2025-05-08T12:11:20.337Z</updated>
   <id>https://utovia2237.github.io/</id>
   
   <author>
@@ -17,22 +17,26 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
+    <title></title>
     <link href="https://utovia2237.github.io/2025/05/07/hello-world/"/>
     <id>https://utovia2237.github.io/2025/05/07/hello-world/</id>
     <published>2025-05-07T02:14:37.535Z</published>
-    <updated>2025-05-07T02:12:11.348Z</updated>
+    <updated>2025-05-08T12:11:20.337Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<hr><h2 id="title-（官方的）Hello-World"><a href="#title-（官方的）Hello-World" class="headerlink" title="title: （官方的）Hello World"></a>title: （官方的）Hello World</h2><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><span id="more"></span><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
+    <summary type="html">&lt;hr&gt;
+&lt;h2 id=&quot;title-（官方的）Hello-World&quot;&gt;&lt;a href=&quot;#title-（官方的）Hello-World&quot; class=&quot;headerlink&quot; title=&quot;title: （官方的）Hello World&quot;&gt;&lt;/a&gt;title: （官方的）Hello World&lt;/h2&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</summary>
     
     
     
+    <category term="万事开头难" scheme="https://utovia2237.github.io/categories/%E4%B8%87%E4%BA%8B%E5%BC%80%E5%A4%B4%E9%9A%BE/"/>
+    
+    
+    <category term="测试" scheme="https://utovia2237.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+    <category term="转载" scheme="https://utovia2237.github.io/tags/%E8%BD%AC%E8%BD%BD/"/>
     
   </entry>
   
