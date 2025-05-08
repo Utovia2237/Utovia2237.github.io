@@ -327,8 +327,8 @@ td {
   transition-timing-function: ease-in-out;
 }
 .btn:hover {
-  background: var(--btn-default-hover-bg);
-  border-color: var(--btn-default-hover-border-color);
+  background: #49b1f5;
+  border-color: #49b1f5;
   color: var(--btn-default-hover-color);
 }
 .btn + .btn {
@@ -1172,7 +1172,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #1fa6c3;
+  background: #67ffff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
