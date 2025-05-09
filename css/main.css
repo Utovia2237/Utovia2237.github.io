@@ -1171,7 +1171,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff9863;
+  background: #47ff21;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2652,15 +2652,8 @@ body {
   background-size: cover;
   background-position: center;
 }
-.content-wrap {
-  opacity: 0.9;
-}
-.main-inner > .sub-menu,
-.main-inner > .post-block,
-.main-inner > .tabs-comment,
-.main-inner > .comments,
-.main-inner > .pagination {
-  background: rgba(255,255,255,0.9);
+:root {
+  --content-bg-color: rgba(255,255,255,0.902);
 }
 .header-inner {
   background: rgba(255,255,255,0.9);
@@ -2679,4 +2672,9 @@ body {
 }
 .post-body h3 {
   border-bottom: 1px dotted #aaa;
+}
+.post-body iframe,
+.post-body img,
+.post-body video {
+  margin-bottom: 0;
 }
