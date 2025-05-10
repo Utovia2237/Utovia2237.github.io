@@ -1171,7 +1171,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #c2ffff;
+  background: #ccad2a;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2705,5 +2705,13 @@ body {
 .post-body .tabs .tab-content .tab-pane,
 .tabs-comment .tab-content .tab-pane {
   border: 1px solid #d7d7d7;
+  border-top: 0;
+}
+.pagination .page-number.current {
+  background: #49b1f5;
+}
+.pagination .prev,
+.pagination .next,
+.pagination .page-number {
   border-top: 0;
 }
