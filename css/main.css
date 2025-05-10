@@ -1171,7 +1171,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #c3f4fb;
+  background: #ff0bde;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2705,4 +2705,5 @@ body {
 .post-body .tabs .tab-content .tab-pane,
 .tabs-comment .tab-content .tab-pane {
   border: 1px solid #ccc;
+  border-top: 0;
 }
